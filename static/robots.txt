@@ -1,4 +1,4 @@
-Sitemap: https://f1-countdown.com/sitemap.xml
+Sitemap: https://f3-countdown.com/sitemap.xml
 
 User-agent: *
 Disallow: /*.xml$
